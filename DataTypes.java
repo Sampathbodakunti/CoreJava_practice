@@ -11,7 +11,7 @@ public class DataTypes {
 		System.out.println(Character.SIZE/8);
 System.out.println("---------------------------------------------");
 		
-//		To find min and max capacity of data types that can store numericals
+//		To find min and max capacity of data types that can store numerics
 		System.out.println(Byte.MIN_VALUE);
 		System.out.println(Byte.MAX_VALUE);
 		System.out.println(Short.MIN_VALUE);
